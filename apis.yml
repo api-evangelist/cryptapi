@@ -1,0 +1,32 @@
+aid: cryptapi
+name: CryptAPI
+description: "Cryptocurrency Payment Processor"
+url: https://docs.cryptapi.io/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cryptocurrency"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cryptocurrency
+  - Public APIs
+apis:
+  - name: CryptAPI
+    description: "Cryptocurrency Payment Processor"
+    humanURL: https://docs.cryptapi.io/
+    baseURL: https://docs.cryptapi.io/
+    tags:
+      - Cryptocurrency
+    properties:
+      - type: Documentation
+        url: https://docs.cryptapi.io/
+common:
+  - type: Website
+    url: https://docs.cryptapi.io/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
