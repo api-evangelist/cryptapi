@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://docs.cryptapi.io/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/cryptapi-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/cryptapi-domain-security.yml
   - type: Website
     url: https://docs.cryptapi.io/
   - type: PublicAPIsListing
